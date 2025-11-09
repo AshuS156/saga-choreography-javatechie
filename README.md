@@ -1,2 +1,4 @@
 # saga-choreography-javatechie
-saga-choreography-javatechie
+
+
+Implements SAGA designpattern
